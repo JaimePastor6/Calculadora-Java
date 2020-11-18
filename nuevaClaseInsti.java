@@ -25,7 +25,7 @@ public class Practica2 {
         boolean b5 = !b1 && !b2 && !b3 && !b4;
 
         if (b1) {
-            System.out.println("El resultado es "+ (num1 + num2));
+            System.out.println("El resultado Es "+ (num1 + num2));
         } else if (b2) {
             System.out.println("El resultado es "+ (num1 - num2));
         }else if (b3) {
